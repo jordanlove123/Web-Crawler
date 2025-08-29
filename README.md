@@ -1,5 +1,5 @@
 # Web-Crawler
-A Rust web crawler that scrapes the most frequently used words on a website starting from a base URL, respecting robots.txt for that website.
+A Rust web crawler that scrapes the most frequently used words on a website starting from a base URL, respecting robots.txt for that website. The crawler also makes use of Rust's safe multithreading to run faster.
 
 ## Usage
 Run this from the command line using the following command:
